@@ -1,0 +1,22 @@
+{
+  "name": "productos",
+  "version": "1.0.0",
+  "description": "sistema de gestion de productos",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielx20/productos.git"
+  },
+  "author": "gabriel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gabrielx20/productos/issues"
+  },
+  "homepage": "https://github.com/gabrielx20/productos#readme",
+  "dependencies": {
+    "mustache": "^4.0.1"
+  }
+}
